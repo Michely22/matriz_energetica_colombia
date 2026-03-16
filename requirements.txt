@@ -1,0 +1,36 @@
+# ============================================================================
+# REQUIREMENTS - Dashboard Matriz Energética Colombia
+# Proyecto Curso Talento Tech - Análisis de Datos
+# Autor: Michely Muñoz
+# ============================================================================
+
+# Framework principal para el dashboard
+streamlit==1.31.0
+
+# Conexión a base de datos MySQL
+mysql-connector-python==8.3.0
+
+# Manipulación y análisis de datos
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualización de gráficos interactivos
+plotly==5.19.0
+
+# Utilidades adicionales
+python-dateutil==2.8.2
+pytz==2024.1
+
+# Para manejo de secretos y variables de entorno
+python-dotenv==1.0.1
+
+# Para mejorar la estética de tablas
+st-aggrid==1.0.0
+
+# Para exportación de datos
+openpyxl==3.1.2
+
+# ============================================================================
+# Instrucciones de instalación:
+# pip install -r requirements.txt
+# ============================================================================
